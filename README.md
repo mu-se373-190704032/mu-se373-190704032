@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+It's a project(school project) that shows whats inside of a store around you within N kms.
+
 
 ->Client
    ·Location
